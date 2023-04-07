@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=MY%20HOME&fontSize=90&desc=북한코뿔소s%20github&descSize=30&descAlignY=70&descAlign=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=MY%20HOME&fontSize=90&desc=북한코뿔소's%20github&descSize=30&descAlignY=70&descAlign=60" />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
